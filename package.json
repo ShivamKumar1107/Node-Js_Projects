@@ -1,0 +1,19 @@
+{
+  "name": "backendtoproduction",
+  "version": "1.0.0",
+  "description": "Learning Backend Deployment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "author": "Shivam Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3"
+  }
+}
